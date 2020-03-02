@@ -2,7 +2,6 @@ package ru.nightgoat.jpgtopngconverter;
 
 import android.content.Context;
 import android.content.res.Resources;
-import android.graphics.drawable.Drawable;
 import android.os.Environment;
 
 import java.util.Objects;

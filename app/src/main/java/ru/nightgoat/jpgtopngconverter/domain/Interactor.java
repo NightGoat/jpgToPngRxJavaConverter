@@ -12,7 +12,6 @@ import io.reactivex.Single;
 import io.reactivex.schedulers.Schedulers;
 import ru.nightgoat.jpgtopngconverter.IResourceHolder;
 import ru.nightgoat.jpgtopngconverter.R;
-import ru.nightgoat.jpgtopngconverter.domain.IRepository;
 
 public class Interactor {
 
